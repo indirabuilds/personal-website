@@ -1,0 +1,91 @@
+PANDUAN SINGKAT
+Ubah tulisan di sebelah KANAN tanda = untuk mengganti isi website.
+Jangan ubah nama bagian dalam tanda [ ] atau nama di sebelah KIRI tanda =.
+Daftar pengalaman, penghargaan, dan universitas sudah disediakan per nomor.
+Setiap baris pengalaman memakai teks biasa. Jangan hapus tanda | pada baris penghargaan.
+Simpan file ini, lalu unggah perubahan ke GitHub agar Netlify memperbarui website.
+
+[umum]
+judul_situs=Indira Mumtaz Khairunnisa — Pendidikan & Dampak
+deskripsi_situs=Portfolio Indira Mumtaz Khairunnisa: akademik, kepemimpinan siswa, akses pendidikan, dan dampak komunitas.
+nama=Indira Mumtaz Khairunnisa
+headline=Indira's Portfolio
+label_atas=PENDIDIKAN · KEPEMIMPINAN · DAMPAK
+perkenalan=Saya Indira Mumtaz Khairunnisa. Saya ingin membantu lebih banyak siswa menemukan jalan menuju pendidikan tinggi dan kesempatan yang mereka impikan.
+tombol_perjalanan=Jelajahi perjalanan saya
+label_caption=KESEMPATAN BELAJAR LAYAK DIBAGIKAN.
+lokasi=BEKASI, INDONESIA
+fokus=AKADEMIK · KOMUNITAS · KEPEMIMPINAN
+label_kenali=KENALI INDIRA
+
+[tentang]
+judul=Kesempatan belajar seharusnya bisa dijangkau lebih banyak orang.
+cerita=Saya adalah pribadi yang mandiri dan bersemangat, dengan minat pada pendidikan, sains, dan dampak sosial. Saya ingin berbagi wawasan serta mendampingi siswa meraih universitas impian mereka.
+sekolah=Sekolah Paradisa Cendekia
+program=Natural Sciences · Cambridge A Level
+periode=Bekasi · 2023–2026
+ringkasan_1=17 PENERIMAAN UNIVERSITAS
+ringkasan_2=8 BEASISWA & HIBAH
+ringkasan_3=IPK 91,41 / 100
+ringkasan_4=IELTS 7,5 / 9,0
+
+[pengalaman]
+judul=Memimpin, mengajar, berkontribusi.
+ringkasan=Belajar memimpin dengan mendengar, melayani, dan bekerja bersama.
+tanggal_1=JUN 2024 — SEP 2025
+jabatan_1=President, Student Council
+organisasi_1=Sekolah Paradisa Cendekia · Bekasi
+poin_1_1=Memulai dan memimpin 18 acara lintas departemen Noble Morals, Welfare, dan Creative.
+poin_1_2=Berkolaborasi dengan 100+ siswa, guru, dan orang tua dalam inisiatif sekolah.
+poin_1_3=Menggalang Rp5 juta untuk Posyandu Desa Gabugan dan Yayasan Kanker Indonesia.
+tanggal_2=FEBRUARI 2023
+jabatan_2=Relawan Pengajar Bahasa Inggris
+organisasi_2=Singapore Piaget Academy · PPA Daniel Gedung Baru
+poin_2_1=Mengajar 20+ siswa kelas delapan dari latar belakang kurang mampu.
+poin_2_2=Menyusun lembar belajar interaktif dan bimbingan satu-satu; siswa mempelajari 20+ kosakata baru.
+
+[inisiatif]
+judul=Ide yang tumbuh menjadi aksi.
+ringkasan=Kolaborasi dan kewirausahaan untuk menjawab kebutuhan nyata.
+judul_1=Ampera Application
+deskripsi_1=Memimpin proposal platform UMKM muda; video pitch ditonton 700+ kali
+tanggal_1=OKTOBER — DESEMBER 2024
+judul_2=Battle of the Brains
+deskripsi_2=Inisiatif siswa menghasilkan Rp30 juta; memimpin pemasaran dan identitas
+tanggal_2=OKTOBER — DESEMBER 2022
+
+[pencapaian]
+judul=Rasa ingin tahu, kerja keras, hasil nyata.
+ringkasan=Beberapa pengakuan akademik dan kesempatan pendidikan yang saya syukuri.
+penghargaan_1=2025 | Peringkat 1 Kota Bekasi, peringkat 15 Jawa Barat | Tes Kemampuan Akademik SMA
+penghargaan_2=2025 | Honorable Mention | International Kangaroo Linguistics Contest
+penghargaan_3=2025 | Medali Perak | International Kangaroo Mathematics Contest
+penghargaan_4=2024 | Top 5 Finalis | KIWI Challenge Entrepreneurship Competition · University of Otago
+penghargaan_5=2024 | Medali Emas | Festival Olimpiade Sains Nasional Akhir Tahun · Biology Olympiad
+penghargaan_6=2023 | Penerima beasiswa program musim panas Oxford & Cambridge | Immerse Education Essay Competition
+penghargaan_7=2023 | Best Presentation Award | Harvard Future Doctors Program Case Study · Harvard Student Agencies
+label_universitas=17 penerimaan program sarjana
+universitas_1=Universitas Indonesia — Biology (KKI)
+universitas_2=Institut Teknologi Bandung — School of Business and Management (IUP)
+universitas_3=New York University — Neural Science
+universitas_4=University of Melbourne — Bachelor of Science (Neuroscience)
+universitas_5=University of Toronto, St. George — Life Science
+universitas_6=University of Toronto, Scarborough — Psychology & Health Studies
+universitas_7=University of Washington — Biology
+universitas_8=Purdue University — Brain and Behavioural Science
+universitas_9=Monash University — Biomedical Science (Monash International Study Grant)
+universitas_10=University of Queensland — Biochemistry & Molecular Biology (UQ International High Achievers Scholarship)
+universitas_11=University of Western Australia — Neuroscience (UWA International Student Award Scholarship)
+universitas_12=University of Adelaide — Neuroscience (Adelaide Merit Scholarship)
+universitas_13=University of Auckland — Psychology
+universitas_14=University of Otago — Neuroscience (University of Otago Global Scholarship)
+universitas_15=University of Massachusetts — Psychology (Dean’s Merit Scholarship)
+universitas_16=University of San Diego — Neuroscience (Torero Achievement Scholarship)
+universitas_17=Western Sydney University — Psychology (Multi-Year Western Sydney International Scholarship)
+
+[kontak]
+judul=Mari perluas akses belajar.
+email=hi.indiramumtaz@gmail.com
+linkedin=https://www.linkedin.com/in/indira-khai/
+telepon=+62 819-7777-0909
+nomor_whatsapp=6281977770909
